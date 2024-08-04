@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    ;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkolivegreen;
+    padding: 10px 20px;
+}
+
+.navbar li a {
+    color: wheat;
+    margin-left: 14em;
+}
+
+.navbar li a:hover {
+    transform: translateY(-7px);
+    background-color: wheat;
+    color: darkolivegreen;
+    border-radius: 80%;
+}
+
+.navbar .logo img {
+    max-width: 140px;
+
+}
+
+.navbar-toggler {
+    display: none;
+    background-color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+
+
+.navbar-nav {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 10px;
+    /* Espace entre chaque <li> */
+}
+
+.nav-item {
+    display: flex;
+    justify-content: end;
+    ;
+}
+
+/* Main */
+main {
+    background-color: wheat;
+
+}
+
+
+h1 {
+    text-align: center;
+    margin-top: 2em;
+    color: darkolivegreen;
+}
+
+/* Section Presentation du zoo */
+
+
+.presentation-img {
+    background-color: darkolivegreen;
+}
+
+h2 {
+    text-align: center;
+    color: wheat;
+}
+
+p {
+    text-align: center;
+    color: wheat;
+    margin: 1em 0;
+}
+
+/* Carousel */
+
+.carousel-item img {
+    width: 70%;
+    margin-left: 15%;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+    .navbar-toggler {
+        display: flex;
+
+    }
+
+
+    .collapse.show {
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+
+    }
+
+}
