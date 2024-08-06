@@ -63,7 +63,7 @@
             <mxGeometry x="170" y="90" width="100" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RHqUemnlyaSMBZLi4ioP-17" value="&lt;span style=&quot;color: rgb(255, 51, 51); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Filtrer les animaux&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RHqUemnlyaSMBZLi4ioP-17" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Filtrer les animaux&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RHqUemnlyaSMBZLi4ioP-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
@@ -90,7 +90,7 @@
             <mxPoint x="110" y="199.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHqUemnlyaSMBZLi4ioP-26" value="&lt;font color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot;&gt;Erreur&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="RHqUemnlyaSMBZLi4ioP-26" value="&lt;font color=&quot;#99004d&quot; face=&quot;Comic Sans MS&quot;&gt;Erreur&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RHqUemnlyaSMBZLi4ioP-27" value="&lt;font color=&quot;#000099&quot; face=&quot;Comic Sans MS&quot;&gt;Renvoi une erreur&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -120,7 +120,7 @@
             <mxPoint x="315" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHqUemnlyaSMBZLi4ioP-33" value="&lt;font color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot;&gt;renvoie les animaux&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="RHqUemnlyaSMBZLi4ioP-33" value="&lt;font color=&quot;#99004d&quot; face=&quot;Comic Sans MS&quot;&gt;renvoie les animaux&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="210" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RHqUemnlyaSMBZLi4ioP-34" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#000066;" parent="1" edge="1">
@@ -180,7 +180,7 @@
             <mxPoint x="320" y="454.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHqUemnlyaSMBZLi4ioP-51" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ff0000&quot;&gt;Attente de confirmation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="RHqUemnlyaSMBZLi4ioP-51" value="&lt;font color=&quot;#99004d&quot; face=&quot;Comic Sans MS&quot;&gt;Attente de confirmation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="355" y="425" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RHqUemnlyaSMBZLi4ioP-57" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" target="RHqUemnlyaSMBZLi4ioP-72" edge="1">
@@ -199,7 +199,7 @@
             <mxPoint x="560" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHqUemnlyaSMBZLi4ioP-60" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Comic Sans MS&quot;&gt;Confirmation de l&#39;envoi&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="RHqUemnlyaSMBZLi4ioP-60" value="&lt;font color=&quot;#99004d&quot; face=&quot;Comic Sans MS&quot;&gt;Confirmation de l&#39;envoi&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="503" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RHqUemnlyaSMBZLi4ioP-61" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#0000CC;" parent="1" edge="1">
@@ -238,10 +238,10 @@
         <mxCell id="RHqUemnlyaSMBZLi4ioP-72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="315" y="465" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RHqUemnlyaSMBZLi4ioP-73" value="&lt;font color=&quot;#ff3333&quot; face=&quot;Comic Sans MS&quot;&gt;Vérif Employer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RHqUemnlyaSMBZLi4ioP-73" value="&lt;font color=&quot;#99004d&quot; face=&quot;Comic Sans MS&quot;&gt;Vérif Employer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="465" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RHqUemnlyaSMBZLi4ioP-74" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Comic Sans MS&quot;&gt;Renvoi les avis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RHqUemnlyaSMBZLi4ioP-74" value="&lt;font color=&quot;#99004d&quot; face=&quot;Comic Sans MS&quot;&gt;Renvoi les avis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="535" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u3gSoa5TK3j7S72jSIU9-3" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#000066;" parent="1" edge="1">
