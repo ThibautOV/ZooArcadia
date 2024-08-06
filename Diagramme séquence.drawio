@@ -138,7 +138,7 @@
             <mxPoint x="320" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHqUemnlyaSMBZLi4ioP-42" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#4c0099&quot;&gt;Envoyer un avis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="RHqUemnlyaSMBZLi4ioP-42" value="&lt;font color=&quot;#000099&quot; face=&quot;Comic Sans MS&quot;&gt;Envoyer un avis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="258" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RHqUemnlyaSMBZLi4ioP-43" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
@@ -229,7 +229,7 @@
             <mxPoint x="110" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHqUemnlyaSMBZLi4ioP-68" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Comic Sans MS&quot;&gt;Affiche les avis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="RHqUemnlyaSMBZLi4ioP-68" value="&lt;font color=&quot;#000099&quot; face=&quot;Comic Sans MS&quot;&gt;Affiche les avis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="155" y="468" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RHqUemnlyaSMBZLi4ioP-71" value="&lt;font color=&quot;#006600&quot; face=&quot;Comic Sans MS&quot;&gt;Renvoi les données&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
